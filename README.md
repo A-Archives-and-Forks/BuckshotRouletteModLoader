@@ -1,5 +1,5 @@
 > [!WARNING]
-> This modloader is no longer maintained. For a new modloader that works with the latest versions of Buckshot Roulette, please see [https://github.com/MSLaFaver/BRMLNeo](MSLaFaver/BRMLNeo).
+> This modloader is no longer maintained. For a new modloader that works with the latest versions of Buckshot Roulette, please see [MSLaFaver/BRMLNeo](https://github.com/MSLaFaver/BRMLNeo).
 
 # BuckshotRouletteModLoader
 
