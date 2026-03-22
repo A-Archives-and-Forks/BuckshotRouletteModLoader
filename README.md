@@ -1,4 +1,8 @@
+> [!WARNING]
+> This modloader is no longer maintained. For a new modloader that works with the latest versions of Buckshot Roulette, please see [https://github.com/MSLaFaver/BRMLNeo](MSLaFaver/BRMLNeo).
+
 # BuckshotRouletteModLoader
+
 **FULL MULTIPLAYER SUPPORT FOR WINDOWS AND LINUX, STEAM 2.1.0.11, AND ITCH 1.2.2.3!**\
 A Mod Loader for Buckshot Roulette based on the [godot-mod-loader](https://github.com/GodotModding/godot-mod-loader) 4.x branch.\
 \
